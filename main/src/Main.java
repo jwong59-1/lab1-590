@@ -1,9 +1,7 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 void main() {
-//
-// print hello world
-    System.out.print("Hello World!");
+// print hello CS 590
+    System.out.print("Hello CS-590, WELCOME!!");
 
 }
 
